@@ -1,5 +1,5 @@
 {
-  "packages": ["raid-fe"],
+  "packages": ["gds-fe"],
   "version": "0.0.0",
   "npmClient": "yarn",
   "useWorkspaces": false
